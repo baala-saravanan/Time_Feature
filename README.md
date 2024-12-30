@@ -1,2 +1,2 @@
-# HearSight-Time_Feature
+# Time_Feature
 To Announce Current Date and Time.
